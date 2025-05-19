@@ -1,4 +1,4 @@
 Name:Hepcy Flora
 Class: IV BCA 'C'
 Roll No:23bcac26
-DEPT:COMPUTER SCIENCE
+DEPT:COMPUTER SCIENCE ok
